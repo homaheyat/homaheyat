@@ -8,7 +8,7 @@ I’m a dedicated Data Analyst professional with 2+ years of experience in analy
 - **Project Management & Strategic Insights**: Experienced in coordinating projects from inception to completion, ensuring impactful outcomes.
 
 ## 🔧 Technical Skills
-- **Data Analysis**: Excel, SQL, R Programming, Tableau, Power BI
+- **Data Analysis**: Excel, SQL, MongoDB, R Programming, Tableau, Power BI
 - **CRM Tools**: Pipedrive
 - **Soft Skills**: Interpersonal Communication, Time Management, Project Management, Active Listening
 
