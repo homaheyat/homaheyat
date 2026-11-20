@@ -53,7 +53,7 @@ I work in Agile teams using **Jira and Azure DevOps**, collaborating with Produc
 |----------|---------|
 | **Data & BI** | SQL (queries, joins, CTEs) · Power BI (dashboards, DAX, Power Query) · Excel (pivot tables, data analysis) · Python (Pandas, NumPy, data cleaning) · MongoDB (queries, aggregation pipelines) |
 | **Data Management** | DBMS · Data modeling · Data validation · Data migration |
-| **Delivery** | Jira · Azure DevOps · Agile · UAT · Requirements gathering |
+| **Delivery** | Jira · Azure DevOps · Scrum · UAT · Requirements gathering |
 
 ---
 
