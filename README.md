@@ -1,129 +1,136 @@
 <h1 align="center">Hi, I'm Homa 👋</h1>
-<h3 align="center">Business Analyst | Data-Driven Operations | Fintech & Real Estate</h3>
+<h3 align="center">Business Analyst | Requirements • UAT • Data Analysis • Reporting</h3>
 
 <p align="center">
-  I bridge business needs and data, turning requirements into insights, dashboards, and better processes.
+  4+ years in fintech and real estate operations, turning business requirements into data-driven solutions, dashboards, and better processes.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/homa-heyat"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:homahayat@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-lightgrey?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Open%20to%20Relocate-Gulf%20Region-success?style=for-the-badge" alt="Open to relocate across the Gulf region">
+  <img src="https://img.shields.io/badge/Open%20to%20Relocate-Gulf%20Region%20(GCC)-success?style=for-the-badge" alt="Open to relocate across the Gulf region">
 </p>
 
 ---
 
 ## 🧑‍💼 About Me
 
-I'm a Business Analyst with **4+ years** of experience in **fintech** and **real estate operations**. I work where business, operations, and data meet: understanding what stakeholders need, finding the right data to answer it, and presenting the result in a form people can act on.
+I'm a Business Analyst supporting fintech and real estate operations through **requirements gathering, data analysis, reporting, UAT, and process improvement**. I analyse complex datasets, investigate data discrepancies, build KPI dashboards, and turn business requirements into actionable insights.
+
+I work in Agile teams using **Jira and Azure DevOps**, collaborating with Product, Technology, and Business teams to improve data quality, operational performance, and client outcomes.
 
 - 🏢 Currently an **Operations Analyst at Indus Valley Partners** (since Nov 2024)
-- 📈 Grew through three progressive roles at **Rexera**: Market Research Analyst → Senior Market Research Analyst → Technical Operations Sub Lead
-- 🎓 **MBA** in Marketing and Operations, Jamia Millia Islamia
-- 📜 Certified **Business Analyst** and holder of the **Google Data Analytics Professional Certificate**
-- 🌍 Open to relocate across the Gulf region (GCC) and available to join immediately
+- 🎓 **MBA** (Operations & Marketing) and **B.Com (Hons.)**, Jamia Millia Islamia
+- 📜 **IBM Business Analyst Professional Certificate** and **Google Data Analytics Professional Certificate**
+- 🌍 **Open to relocate across the Gulf region (GCC)** · Immediate joiner
 
 ---
 
-## 🎯 What I Bring as a Business Analyst
+## 🎯 Key Skills
 
-| Area | What I do |
-|------|-----------|
-| **Requirements & Stakeholders** | Gather and clarify business needs, and turn them into clear, actionable analysis |
-| **Data Analysis** | Query, clean, and analyse data with SQL, Python, R, and Excel |
-| **Reporting & BI** | Build dashboards and KPI reports in Power BI for decision-makers |
-| **Process Improvement** | Spot operational gaps and recommend data-backed fixes |
-| **Market & Operations Insight** | Apply research and operations experience from fintech and real estate |
-| **Documentation & Communication** | Present findings and requirements in a way both business and technical teams can use |
+`Requirements Gathering` `Business Analysis` `UAT & Solution Validation` `Agile Delivery` `KPI Tracking & Dashboards` `Root Cause Analysis` `Data Quality & Validation` `Process Improvement` `Stakeholder Management` `Cross-functional Collaboration` `Business Insights & Data Storytelling`
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technical Skills
 
-**Data & Analytics**
+**Data & BI**
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Reporting & Productivity**
+**Delivery**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+| Category | Details |
+|----------|---------|
+| **Data & BI** | SQL (queries, joins, CTEs) · Power BI (dashboards, DAX, Power Query) · Excel (pivot tables, data analysis) · Python (Pandas, NumPy, data cleaning) · MongoDB (queries, aggregation pipelines) |
+| **Data Management** | DBMS · Data modeling · Data validation · Data migration |
+| **Delivery** | Jira · Azure DevOps · Agile · UAT · Requirements gathering |
 
 ---
 
 ## 💼 Experience
 
 ### Operations Analyst · Indus Valley Partners
-*Nov 2024 – Present · New Delhi, India*
+*Nov 2024 – Present · Delhi, India*
 
-- Analyse operational data to track performance, surface issues, and support decisions
-- Build and maintain reports and dashboards using SQL, Power BI, and Excel
-- Work with stakeholders to define metrics and improve how work is measured and delivered
-- `[Add a specific result, e.g. "reduced X by Y%" or "automated Z reporting"]`
+- Gather requirements and collaborate with cross-functional teams to deliver targeted, data-driven solutions
+- Configure client-specific requirements within the fintech Deal Platform, supporting client onboarding and implementation
+- Conduct UAT by executing test cases, validating business requirements, identifying defects, and coordinating resolution with developers
+- Track project milestones, implementation progress, tasks, and user stories in Jira and Azure DevOps
+- Analyse and validate client data across SQL and MongoDB for accuracy, consistency, and integrity; develop and optimise SQL queries for analysis, reporting, and troubleshooting
+- Perform data reconciliation and root-cause analysis to resolve discrepancies and recommend process improvements
+- Build Power BI dashboards tracking operational KPIs, client implementations, project progress, and business performance
+- Analyse business and operational data to identify trends and recurring issues, supporting stakeholders with actionable insights
 
-### Market Research Analyst → Senior Market Research Analyst → Technical Operations Sub Lead · Rexera
-*Feb 2022 – Apr 2024 · Three progressive promotions*
+### Business Development Analyst · SC Technologies Pvt. Ltd.
+*May 2024 – Oct 2024 · Delhi, India*
 
-- Researched and analysed real estate market and property data to support operations
-- Took on greater ownership with each promotion, moving from analysis into technical operations leadership
-- Supported team processes, quality, and reporting as Sub Lead
-- `[Add a specific result, e.g. team size, volume handled, accuracy or turnaround improvement]`
+- Analysed customer segmentation and competitor trends, refining digital strategies that improved effectiveness for travel agencies
+- Conducted sales and market analysis to identify growth opportunities for travel website development
+- Tracked and analysed sales data in Excel against industry benchmarks to support strategic decisions
 
----
+### Technical Operations Sub Lead · Rexera (A RealPage Company)
+*Feb 2022 – Apr 2024 · Remote · Promoted from Senior Market Research Analyst and Market Research Analyst*
 
-## 🎓 Education & Certifications
+- Progressed through three roles in just over two years: Market Research Analyst → Senior Market Research Analyst → Technical Operations Sub Lead
+- Led technical teams to meet project objectives, coordinating daily operations, monitoring progress, and aligning team goals with organisational priorities
+- Built a property and junior-analyst overview dashboard using SQL and Power BI
+- **Mentored 100+ new recruits, reducing output time by 50%** through process improvements
+- Managed HOA Escrow document workflows and maintained HOA databases, meeting monthly targets and delivering documents ahead of standard turnaround times, which improved client satisfaction
+- Collected and verified HOA data through online research and phone inquiries to ensure accuracy and reliability
 
-| Credential | Institution | Year |
-|------------|-------------|------|
-| MBA, Marketing & Operations | Jamia Millia Islamia | |
-| Google Data Analytics Professional Certificate | Coursera | Sep 2024 |
-| Business Analyst Certification | | |
+### Sales and Marketing Intern · Tata Power Solar Systems Limited
+*Jun 2019 – Aug 2019 · Delhi, India*
+
+- Presented products to new commercial and residential customers and built a customer base to generate leads
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- Replace with your real projects. Frame each as: business problem → analysis → outcome. -->
+### 🔹 Data Validation Script (MongoDB to SQL Server)
+**Problem:** Verifying data accuracy after a database migration.
+**What I built:** A Python script that reconciles data after migration, identifying mismatches and verifying accuracy and consistency.
+**Tools:** Python · MongoDB · SQL Server
 
-### 🔹 [Project Name](https://github.com/USERNAME/repo)
-**Business problem:** What question or need was this answering?
-**Approach:** Data sources, methods, and tools used.
-**Outcome:** What changed or what insight did it produce?
+### 🔹 Property Management Analysis & Coordination
+**Problem:** Giving teams visibility across a large property portfolio.
+**What I built:** SQL and Power BI dashboards covering **250+ properties**, plus coordination of project documentation and reporting.
 **Tools:** SQL · Power BI
 
-### 🔹 [Project Name](https://github.com/USERNAME/repo)
-**Business problem:** …
-**Approach:** …
-**Outcome:** …
-**Tools:** Python
-
-### 🔹 [Project Name](https://github.com/USERNAME/repo)
-**Business problem:** …
-**Approach:** …
-**Outcome:** …
-**Tools:** Excel · R
+### 🔹 AI-Powered Azure DevOps Ticket Automation
+**Problem:** Turning long client email threads into structured, assigned work items.
+**What I built:** An automation that creates and assigns Azure DevOps tickets, using Gemini to summarise client email threads and extract key requirements.
+**Tools:** Azure DevOps · Gemini · Automation
 
 ---
 
-## 🔄 How I Work
+## 🎓 Education & Certifications
 
-1. **Ask** → clarify the business question and what success looks like
-2. **Prepare** → find, clean, and validate the data
-3. **Analyse** → explore patterns and test assumptions with SQL, Python, or R
-4. **Share** → visualise and explain findings in Power BI or clear reports
-5. **Act** → recommend next steps and follow up on impact
+**Education**
 
----
+| Degree | Institution | Years |
+|--------|-------------|-------|
+| MBA (Operations & Marketing) | Jamia Millia Islamia, Delhi | 2018 – 2020 |
+| B.Com (Hons.) | Jamia Millia Islamia, Delhi | 2015 – 2018 |
 
-## 📚 Currently
+**Certifications**
 
-- 🔭 Deepening my SQL and Python for analysis and automation
-- 📊 Building stronger Power BI dashboards and storytelling
-- 🧠 Strengthening business analysis skills: requirements, process mapping, and UAT
+- IBM Business Analyst Professional Certificate
+- Google Data Analytics Professional Certificate
+- Big Data Modeling and Management Systems
+- Managing Big Data with MySQL
+- Business Metrics for Data-Driven Companies
+- Data Analysis in Excel
 
 ---
 
@@ -140,4 +147,4 @@ I'm a Business Analyst with **4+ years** of experience in **fintech** and **real
 
 Open to conversations about business analysis, operations, BI, and new opportunities across the Gulf region.
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/homa-heyat)
+📫 [LinkedIn](https://linkedin.com/in/homa-heyat) · ✉️ [homahayat@gmail.com](mailto:homahayat@gmail.com)
